@@ -1,0 +1,10 @@
+
+Numerical Computing with MATLAB is a textbook for an introductory course in
+numerical methods, MATLAB, and technical computing. It emphasizes the informed
+use of mathematical software. Topics include matrix computation, interpolation
+and zero finding, differential equations, random numbers, and Fourier
+analysis:
+
+https://es.mathworks.com/moler/chapters.html
+
+https://nm.mathforcollege.com/
